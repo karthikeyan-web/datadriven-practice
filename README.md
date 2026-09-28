@@ -8,6 +8,7 @@ Scored work from [DataDriven](https://datadriven.io/u/primal_dolphin_5126), comm
 
 | Problem | Domain | Difficulty | Solved |
 |---|---|---|---|
+| [DQ Fail Rate by Table](./practice/sql/dq-fail-rate-by-table) | SQL | Medium | 2026-08-10 |
 | [The Secret Twins](./practice/python/the-secret-twins) | Python | Easy | 2026-08-09 |
 | [Early 2026 Data Pipelines](./practice/sql/early-year-data-pipelines) | SQL | Easy | 2026-08-09 |
 | [Bargain Bin](./practice/sql/bargain-bin) | SQL | Easy | 2026-08-08 |
