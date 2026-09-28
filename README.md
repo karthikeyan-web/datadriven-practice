@@ -8,6 +8,7 @@ Scored work from [DataDriven](https://datadriven.io/u/primal_dolphin_5126), comm
 
 | Problem | Domain | Difficulty | Solved |
 |---|---|---|---|
+| [The Compliance Order](./practice/sql/the-compliance-order) | SQL | Easy | 2026-08-01 |
 | [First Impressions](./practice/sql/first-impressions) | SQL | Easy | 2026-08-01 |
 | [Customer Full Name Concat](./practice/sql/customer-full-name-concat) | SQL | Easy | 2026-08-01 |
 | [Product Name Letter Replace](./practice/sql/product-name-letter-replace) | SQL | Easy | 2026-08-01 |
