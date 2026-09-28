@@ -8,6 +8,7 @@ Scored work from [DataDriven](https://datadriven.io/u/primal_dolphin_5126), comm
 
 | Problem | Domain | Difficulty | Solved |
 |---|---|---|---|
+| [Deploy Count by Service](./practice/sql/deploy-count-by-service) | SQL | Easy | 2026-09-13 |
 | [The Slow Creep](./practice/sql/the-slow-creep) | SQL | Medium | 2026-09-12 |
 | [Splitting the Load](./practice/sql/splitting-the-load) | SQL | Medium | 2026-09-11 |
 | [Engagement Gap](./practice/sql/engagement-gap) | SQL | Medium | 2026-09-01 |
