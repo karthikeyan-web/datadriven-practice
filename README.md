@@ -8,6 +8,7 @@ Scored work from [DataDriven](https://datadriven.io/u/primal_dolphin_5126), comm
 
 | Problem | Domain | Difficulty | Solved |
 |---|---|---|---|
+| [Everything Said Twice](./practice/python/everything-said-twice) | Python | Easy | 2026-05-23 |
 | [Normalize Name](./practice/python/normalize-name) | Python | Easy | 2026-05-19 |
 | [Ad Clickers](./practice/sql/ad-clickers) | SQL | Easy | 2026-05-19 |
 
