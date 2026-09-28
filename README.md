@@ -8,6 +8,7 @@ Scored work from [DataDriven](https://datadriven.io/u/primal_dolphin_5126), comm
 
 | Problem | Domain | Difficulty | Solved |
 |---|---|---|---|
+| [Silent Users](./practice/sql/silent-users) | SQL | Medium | 2026-08-29 |
 | [Top 100 Batch Jobs Total Output](./practice/sql/top-100-batch-jobs-total-output) | SQL | Easy | 2026-08-28 |
 | [Both Ends of the Pipe](./practice/sql/both-ends-of-the-pipe) | SQL | Medium | 2026-08-26 |
 | [Users With API Errors](./practice/sql/users-with-api-errors) | SQL | Medium | 2026-08-26 |
