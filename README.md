@@ -8,6 +8,7 @@ Scored work from [DataDriven](https://datadriven.io/u/primal_dolphin_5126), comm
 
 | Problem | Domain | Difficulty | Solved |
 |---|---|---|---|
+| [Splitting the Load](./practice/sql/splitting-the-load) | SQL | Medium | 2026-09-11 |
 | [Engagement Gap](./practice/sql/engagement-gap) | SQL | Medium | 2026-09-01 |
 | [Where Users Linger](./practice/sql/where-users-linger) | SQL | Easy | 2026-08-31 |
 | [Deploy Cadence](./practice/sql/deploy-cadence) | SQL | Easy | 2026-08-30 |
