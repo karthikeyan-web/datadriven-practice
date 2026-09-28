@@ -8,6 +8,7 @@ Scored work from [DataDriven](https://datadriven.io/u/primal_dolphin_5126), comm
 
 | Problem | Domain | Difficulty | Solved |
 |---|---|---|---|
+| [Average Latency by Status](./practice/sql/average-latency-by-status) | SQL | Easy | 2026-07-18 |
 | [Deployment Duration by Status](./practice/sql/deployment-duration-by-status) | SQL | Easy | 2026-07-17 |
 | [Low Uptime Services](./practice/sql/low-uptime-services) | SQL | Easy | 2026-07-12 |
 | [Transaction Timeline](./practice/sql/transaction-timeline) | SQL | Medium | 2026-07-09 |
