@@ -8,6 +8,7 @@ Scored work from [DataDriven](https://datadriven.io/u/primal_dolphin_5126), comm
 
 | Problem | Domain | Difficulty | Solved |
 |---|---|---|---|
+| [The Weight of a Verdict](./practice/sql/the-weight-of-a-verdict) | SQL | Easy | 2026-08-08 |
 | [Category Sales Summary](./practice/sql/category-sales-summary) | SQL | Easy | 2026-08-07 |
 | [Bronze Medal](./practice/sql/bronze-medal) | SQL | Easy | 2026-08-07 |
 | [Busiest Pipeline Month](./practice/sql/busiest-pipeline-month) | SQL | Medium | 2026-08-06 |
