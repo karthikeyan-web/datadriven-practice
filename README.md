@@ -8,6 +8,7 @@ Scored work from [DataDriven](https://datadriven.io/u/primal_dolphin_5126), comm
 
 | Problem | Domain | Difficulty | Solved |
 |---|---|---|---|
+| [Active Users With April Transactions](./practice/sql/active-users-with-april-transactions) | SQL | Easy | 2026-06-18 |
 | [Auth Endpoints](./practice/sql/auth-endpoints) | SQL | Easy | 2026-06-06 |
 | [The Runaway Leader](./practice/python/the-runaway-leader) | Python | Easy | 2026-05-29 |
 | [The Squeeze](./practice/python/the-squeeze) | Python | Easy | 2026-05-28 |
