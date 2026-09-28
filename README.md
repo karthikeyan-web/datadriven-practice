@@ -8,6 +8,7 @@ Scored work from [DataDriven](https://datadriven.io/u/primal_dolphin_5126), comm
 
 | Problem | Domain | Difficulty | Solved |
 |---|---|---|---|
+| [The Minutes Tracker](./practice/python/the-minutes-tracker) | Python | Easy | 2026-07-31 |
 | [The Letter Frequency Map](./practice/python/the-letter-frequency-map) | Python | Easy | 2026-07-31 |
 | [Find Mode](./practice/python/find-mode) | Python | Medium | 2026-07-31 |
 | [Click Revenue](./practice/sql/click-revenue) | SQL | Easy | 2026-07-30 |
