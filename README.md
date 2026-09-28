@@ -8,6 +8,7 @@ Scored work from [DataDriven](https://datadriven.io/u/primal_dolphin_5126), comm
 
 | Problem | Domain | Difficulty | Solved |
 |---|---|---|---|
+| [Budget-Friendly Products](./practice/sql/budget-friendly-products) | SQL | Easy | 2026-08-01 |
 | [Largest CDN Response](./practice/sql/largest-cdn-response) | SQL | Hard | 2026-07-31 |
 | [The Mirror Image](./practice/python/the-mirror-image) | Python | Easy | 2026-07-31 |
 | [The Minutes Tracker](./practice/python/the-minutes-tracker) | Python | Easy | 2026-07-31 |
