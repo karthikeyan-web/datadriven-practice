@@ -8,6 +8,7 @@ Scored work from [DataDriven](https://datadriven.io/u/primal_dolphin_5126), comm
 
 | Problem | Domain | Difficulty | Solved |
 |---|---|---|---|
+| [The Letter Frequency Map](./practice/python/the-letter-frequency-map) | Python | Easy | 2026-07-31 |
 | [Find Mode](./practice/python/find-mode) | Python | Medium | 2026-07-31 |
 | [Click Revenue](./practice/sql/click-revenue) | SQL | Easy | 2026-07-30 |
 | [30-Day Page View Counts](./practice/sql/30-day-page-view-counts) | SQL | Easy | 2026-07-29 |
