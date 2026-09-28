@@ -8,6 +8,7 @@ Scored work from [DataDriven](https://datadriven.io/u/primal_dolphin_5126), comm
 
 | Problem | Domain | Difficulty | Solved |
 |---|---|---|---|
+| [Low Uptime Services](./practice/sql/low-uptime-services) | SQL | Easy | 2026-07-12 |
 | [Transaction Timeline](./practice/sql/transaction-timeline) | SQL | Medium | 2026-07-09 |
 | [Threads Excluding User](./practice/sql/threads-excluding-user) | SQL | Easy | 2026-07-08 |
 | [The Waiting Room](./practice/sql/the-waiting-room) | SQL | Easy | 2026-07-05 |
