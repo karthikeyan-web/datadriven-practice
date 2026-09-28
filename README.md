@@ -8,6 +8,7 @@ Scored work from [DataDriven](https://datadriven.io/u/primal_dolphin_5126), comm
 
 | Problem | Domain | Difficulty | Solved |
 |---|---|---|---|
+| [Active Token Owners in 2026](./practice/sql/active-token-owners-in-year) | SQL | Easy | 2026-09-13 |
 | [Deploy Count by Service](./practice/sql/deploy-count-by-service) | SQL | Easy | 2026-09-13 |
 | [The Slow Creep](./practice/sql/the-slow-creep) | SQL | Medium | 2026-09-12 |
 | [Splitting the Load](./practice/sql/splitting-the-load) | SQL | Medium | 2026-09-11 |
