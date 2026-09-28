@@ -8,6 +8,7 @@ Scored work from [DataDriven](https://datadriven.io/u/primal_dolphin_5126), comm
 
 | Problem | Domain | Difficulty | Solved |
 |---|---|---|---|
+| [Trim Endpoints Right](./practice/sql/trim-endpoints-right) | SQL | Easy | 2026-08-20 |
 | [The Word Flipper](./practice/python/the-word-flipper) | Python | Easy | 2026-08-15 |
 | [Validate Email](./practice/python/validate-email) | Python | Medium | 2026-08-15 |
 | [Suspected Bot Sessions](./practice/sql/suspected-bot-sessions) | SQL | Easy | 2026-08-14 |
