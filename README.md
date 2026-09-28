@@ -8,6 +8,7 @@ Scored work from [DataDriven](https://datadriven.io/u/primal_dolphin_5126), comm
 
 | Problem | Domain | Difficulty | Solved |
 |---|---|---|---|
+| [Null Counter](./practice/python/null-counter) | Python | Easy | 2026-08-03 |
 | [The Ones That Come Back](./practice/python/the-ones-that-come-back) | Python | Easy | 2026-08-03 |
 | [The Compliance Order](./practice/sql/the-compliance-order) | SQL | Easy | 2026-08-01 |
 | [First Impressions](./practice/sql/first-impressions) | SQL | Easy | 2026-08-01 |
