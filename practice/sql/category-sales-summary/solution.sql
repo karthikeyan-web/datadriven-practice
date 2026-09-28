@@ -1,0 +1,1 @@
+select p.category, count(distinct transaction_id) as unique_transactions, sum(t.total_amount) as total_revenue from transactions t join products p on t.product_id = p.product_id where t.transaction_date >= '2026-01-01' and t.transaction_date < '2026-12-31' group by p.category order by total_revenue desc;
