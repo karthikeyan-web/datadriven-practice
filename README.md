@@ -8,6 +8,7 @@ Scored work from [DataDriven](https://datadriven.io/u/primal_dolphin_5126), comm
 
 | Problem | Domain | Difficulty | Solved |
 |---|---|---|---|
+| [Service Roll Call](./practice/sql/service-roll-call) | SQL | Easy | 2026-09-26 |
 | [Ship It or Skip It](./practice/sql/ship-it-or-skip-it) | SQL | Easy | 2026-09-18 |
 | [Find Deploy Authors](./practice/sql/find-deploy-authors) | SQL | Easy | 2026-09-13 |
 | [Active Token Owners in 2026](./practice/sql/active-token-owners-in-year) | SQL | Easy | 2026-09-13 |
