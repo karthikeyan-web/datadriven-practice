@@ -8,6 +8,7 @@ Scored work from [DataDriven](https://datadriven.io/u/primal_dolphin_5126), comm
 
 | Problem | Domain | Difficulty | Solved |
 |---|---|---|---|
+| [Where the Lines Break](./practice/python/where-the-lines-break) | Python | Easy | 2026-08-25 |
 | [The Publishing Audit](./practice/sql/the-publishing-audit) | SQL | Easy | 2026-08-22 |
 | [Latest Version Per Service](./practice/sql/latest-version-per-service) | SQL | Easy | 2026-08-21 |
 | [The Ones Worth Paging](./practice/sql/the-ones-worth-paging) | SQL | Hard | 2026-08-21 |
