@@ -8,6 +8,7 @@ Scored work from [DataDriven](https://datadriven.io/u/primal_dolphin_5126), comm
 
 | Problem | Domain | Difficulty | Solved |
 |---|---|---|---|
+| [Largest CDN Response](./practice/sql/largest-cdn-response) | SQL | Hard | 2026-07-31 |
 | [The Mirror Image](./practice/python/the-mirror-image) | Python | Easy | 2026-07-31 |
 | [The Minutes Tracker](./practice/python/the-minutes-tracker) | Python | Easy | 2026-07-31 |
 | [The Letter Frequency Map](./practice/python/the-letter-frequency-map) | Python | Easy | 2026-07-31 |
