@@ -8,6 +8,7 @@ Scored work from [DataDriven](https://datadriven.io/u/primal_dolphin_5126), comm
 
 | Problem | Domain | Difficulty | Solved |
 |---|---|---|---|
+| [Latest Version Per Service](./practice/sql/latest-version-per-service) | SQL | Easy | 2026-08-21 |
 | [The Ones Worth Paging](./practice/sql/the-ones-worth-paging) | SQL | Hard | 2026-08-21 |
 | [Custom Message Type Counts](./practice/sql/custom-message-type-counts) | SQL | Medium | 2026-08-21 |
 | [Trim Search Terms Left](./practice/sql/trim-search-terms-left) | SQL | Easy | 2026-08-20 |
