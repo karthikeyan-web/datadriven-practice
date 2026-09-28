@@ -1,0 +1,1 @@
+select products.category, count(distinct transactions.user_id) as unique_buyers, sum(transactions.total_amount) as total_revenue from products join transactions on products.product_id = transactions.product_id group by products.category;
