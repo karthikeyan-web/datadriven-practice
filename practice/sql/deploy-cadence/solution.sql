@@ -1,0 +1,1 @@
+select (env_name) as env_name, count(deploy_at) as deploy_count, avg(dur_secs) as avg_duration, count(distinct svc_name) as unique_services from deploy_logs group by env_name order by deploy_count desc;
