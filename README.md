@@ -8,6 +8,7 @@ Scored work from [DataDriven](https://datadriven.io/u/primal_dolphin_5126), comm
 
 | Problem | Domain | Difficulty | Solved |
 |---|---|---|---|
+| [Batch Job Performance Tiers](./practice/sql/batch-job-performance-tiers) | SQL | Medium | 2026-07-24 |
 | [Distinct Product Categories](./practice/sql/distinct-product-categories) | SQL | Easy | 2026-07-19 |
 | [Reverse Field](./practice/python/reverse-field) | Python | Easy | 2026-07-19 |
 | [The Shape of a User](./practice/sql/the-shape-of-a-user) | SQL | Medium | 2026-07-19 |
