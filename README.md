@@ -8,6 +8,7 @@ Scored work from [DataDriven](https://datadriven.io/u/primal_dolphin_5126), comm
 
 | Problem | Domain | Difficulty | Solved |
 |---|---|---|---|
+| [Busiest Pipeline Month](./practice/sql/busiest-pipeline-month) | SQL | Medium | 2026-08-06 |
 | [Users Per Device Type](./practice/sql/users-per-device-type) | SQL | Easy | 2026-08-05 |
 | [Carrying Forward](./practice/python/carrying-forward) | Python | Medium | 2026-08-04 |
 | [Users With Purchase Events](./practice/sql/users-with-purchase-events) | SQL | Easy | 2026-08-03 |
