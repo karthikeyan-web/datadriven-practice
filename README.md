@@ -8,6 +8,7 @@ Scored work from [DataDriven](https://datadriven.io/u/primal_dolphin_5126), comm
 
 | Problem | Domain | Difficulty | Solved |
 |---|---|---|---|
+| [Suspected Bot Sessions](./practice/sql/suspected-bot-sessions) | SQL | Easy | 2026-08-14 |
 | [The Crown Jewels](./practice/sql/the-crown-jewels) | SQL | Easy | 2026-08-14 |
 | [Members Only](./practice/python/members-only) | Python | Easy | 2026-08-11 |
 | [DQ Fail Rate by Table](./practice/sql/dq-fail-rate-by-table) | SQL | Medium | 2026-08-10 |
