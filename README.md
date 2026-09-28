@@ -8,6 +8,7 @@ Scored work from [DataDriven](https://datadriven.io/u/primal_dolphin_5126), comm
 
 | Problem | Domain | Difficulty | Solved |
 |---|---|---|---|
+| [Reverse Field](./practice/python/reverse-field) | Python | Easy | 2026-07-19 |
 | [The Shape of a User](./practice/sql/the-shape-of-a-user) | SQL | Medium | 2026-07-19 |
 | [Average Latency by Status](./practice/sql/average-latency-by-status) | SQL | Easy | 2026-07-18 |
 | [Deployment Duration by Status](./practice/sql/deployment-duration-by-status) | SQL | Easy | 2026-07-17 |
