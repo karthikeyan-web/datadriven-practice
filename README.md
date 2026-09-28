@@ -8,6 +8,7 @@ Scored work from [DataDriven](https://datadriven.io/u/primal_dolphin_5126), comm
 
 | Problem | Domain | Difficulty | Solved |
 |---|---|---|---|
+| [Product Name Letter Replace](./practice/sql/product-name-letter-replace) | SQL | Easy | 2026-08-01 |
 | [Category Census](./practice/sql/category-census) | SQL | Easy | 2026-08-01 |
 | [Big Spenders](./practice/sql/big-spenders) | SQL | Easy | 2026-08-01 |
 | [Budget-Friendly Products](./practice/sql/budget-friendly-products) | SQL | Easy | 2026-08-01 |
