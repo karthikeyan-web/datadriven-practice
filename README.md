@@ -8,6 +8,7 @@ Scored work from [DataDriven](https://datadriven.io/u/primal_dolphin_5126), comm
 
 | Problem | Domain | Difficulty | Solved |
 |---|---|---|---|
+| [Disabled Feature Flags](./practice/sql/disabled-feature-flags) | SQL | Easy | 2026-09-28 |
 | [Daily Session and User Counts](./practice/sql/daily-session-and-user-counts) | SQL | Medium | 2026-09-27 |
 | [Service Roll Call](./practice/sql/service-roll-call) | SQL | Easy | 2026-09-26 |
 | [Ship It or Skip It](./practice/sql/ship-it-or-skip-it) | SQL | Easy | 2026-09-18 |
