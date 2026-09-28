@@ -8,6 +8,7 @@ Scored work from [DataDriven](https://datadriven.io/u/primal_dolphin_5126), comm
 
 | Problem | Domain | Difficulty | Solved |
 |---|---|---|---|
+| [The Runaway Leader](./practice/python/the-runaway-leader) | Python | Easy | 2026-05-29 |
 | [The Squeeze](./practice/python/the-squeeze) | Python | Easy | 2026-05-28 |
 | [Char Profile](./practice/python/char-profile) | Python | Medium | 2026-05-23 |
 | [Everything Said Twice](./practice/python/everything-said-twice) | Python | Easy | 2026-05-23 |
