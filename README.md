@@ -8,6 +8,7 @@ Scored work from [DataDriven](https://datadriven.io/u/primal_dolphin_5126), comm
 
 | Problem | Domain | Difficulty | Solved |
 |---|---|---|---|
+| [Where Users Linger](./practice/sql/where-users-linger) | SQL | Easy | 2026-08-31 |
 | [Deploy Cadence](./practice/sql/deploy-cadence) | SQL | Easy | 2026-08-30 |
 | [Silent Users](./practice/sql/silent-users) | SQL | Medium | 2026-08-29 |
 | [Top 100 Batch Jobs Total Output](./practice/sql/top-100-batch-jobs-total-output) | SQL | Easy | 2026-08-28 |
