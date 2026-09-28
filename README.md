@@ -8,6 +8,7 @@ Scored work from [DataDriven](https://datadriven.io/u/primal_dolphin_5126), comm
 
 | Problem | Domain | Difficulty | Solved |
 |---|---|---|---|
+| [Merge Counters](./practice/python/merge-counters) | Python | Medium | 2026-07-27 |
 | [Consistent High-Quantity Revenue](./practice/sql/consistent-high-quantity-revenue) | SQL | Medium | 2026-07-27 |
 | [Batch Job Performance Tiers](./practice/sql/batch-job-performance-tiers) | SQL | Medium | 2026-07-24 |
 | [Distinct Product Categories](./practice/sql/distinct-product-categories) | SQL | Easy | 2026-07-19 |
