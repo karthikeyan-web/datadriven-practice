@@ -8,6 +8,7 @@ Scored work from [DataDriven](https://datadriven.io/u/primal_dolphin_5126), comm
 
 | Problem | Domain | Difficulty | Solved |
 |---|---|---|---|
+| [Users With Purchase Events](./practice/sql/users-with-purchase-events) | SQL | Easy | 2026-08-03 |
 | [Sort Descending](./practice/python/sort-descending) | Python | Easy | 2026-08-03 |
 | [Null Counter](./practice/python/null-counter) | Python | Easy | 2026-08-03 |
 | [The Ones That Come Back](./practice/python/the-ones-that-come-back) | Python | Easy | 2026-08-03 |
