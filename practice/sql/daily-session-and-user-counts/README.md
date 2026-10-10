@@ -2,7 +2,7 @@
 
 *Sessions and users, day by day.*
 
-[SQL · Medium · on DataDriven](https://datadriven.io/problems/daily_session_and_user_counts)
+[SQL · Easy · on DataDriven](https://datadriven.io/problems/daily_session_and_user_counts)
 
 ## How it went
 
