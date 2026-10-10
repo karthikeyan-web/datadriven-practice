@@ -2,7 +2,7 @@
 
 *Three levels wake someone up at night. Tally each one.*
 
-[SQL · Hard · on DataDriven](https://datadriven.io/problems/the_ones_worth_paging)
+[SQL · Easy · on DataDriven](https://datadriven.io/problems/the_ones_worth_paging)
 
 ## How it went
 
