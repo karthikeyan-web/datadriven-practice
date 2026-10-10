@@ -11,7 +11,7 @@ Scored work from [DataDriven](https://datadriven.io/u/primal_dolphin_5126), comm
 | [Cheapest Cost Per Region](./practice/sql/cheapest-cost-per-region) | SQL | Easy | 2026-10-10 |
 | [Sirens and Smoke](./practice/sql/sirens-and-smoke) | SQL | Easy | 2026-10-08 |
 | [Disabled Feature Flags](./practice/sql/disabled-feature-flags) | SQL | Easy | 2026-09-28 |
-| [Daily Session and User Counts](./practice/sql/daily-session-and-user-counts) | SQL | Easy | 2026-09-27 |
+| [Daily Session and User Counts](./practice/sql/daily-session-and-user-counts) | SQL | Medium | 2026-09-27 |
 | [Service Roll Call](./practice/sql/service-roll-call) | SQL | Easy | 2026-09-26 |
 | [Ship It or Skip It](./practice/sql/ship-it-or-skip-it) | SQL | Easy | 2026-09-18 |
 | [Find Deploy Authors](./practice/sql/find-deploy-authors) | SQL | Easy | 2026-09-13 |
