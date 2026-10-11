@@ -8,6 +8,7 @@ Scored work from [DataDriven](https://datadriven.io/u/primal_dolphin_5126), comm
 
 | Problem | Domain | Difficulty | Solved |
 |---|---|---|---|
+| [The Address Surgeon](./practice/python/the-address-surgeon) | Python | Easy | 2026-10-11 |
 | [Daily and Weekly Active Users](./practice/sql/daily-and-weekly-active-users) | SQL | Easy | 2026-10-10 |
 | [Clean Cache CDN Edges](./practice/sql/clean-cache-cdn-edges) | SQL | Easy | 2026-10-10 |
 | [Cheapest Cost Per Region](./practice/sql/cheapest-cost-per-region) | SQL | Easy | 2026-10-10 |
