@@ -8,6 +8,7 @@ Scored work from [DataDriven](https://datadriven.io/u/primal_dolphin_5126), comm
 
 | Problem | Domain | Difficulty | Solved |
 |---|---|---|---|
+| [Alert Count by Severity Tier](./practice/sql/alert-count-by-severity-tier) | SQL | Medium | 2026-10-22 |
 | [Actually Available](./practice/sql/actually-available) | SQL | Easy | 2026-10-22 |
 | [Content Types by Creator](./practice/sql/content-types-by-creator) | SQL | Easy | 2026-10-22 |
 | [Regional Profits](./practice/sql/regional-profits) | SQL | Easy | 2026-10-18 |
