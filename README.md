@@ -8,6 +8,7 @@ Scored work from [DataDriven](https://datadriven.io/u/primal_dolphin_5126), comm
 
 | Problem | Domain | Difficulty | Solved |
 |---|---|---|---|
+| [Actually Available](./practice/sql/actually-available) | SQL | Easy | 2026-10-22 |
 | [Content Types by Creator](./practice/sql/content-types-by-creator) | SQL | Easy | 2026-10-22 |
 | [Regional Profits](./practice/sql/regional-profits) | SQL | Easy | 2026-10-18 |
 | [Top Metric Values](./practice/sql/top-metric-values) | SQL | Easy | 2026-10-17 |
