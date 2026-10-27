@@ -17,6 +17,7 @@ Scored work from [DataDriven](https://datadriven.io/u/primal_dolphin_5126), comm
 | [Regional Profits](./practice/sql/regional-profits) | SQL | Easy | 2026-10-18 |
 | [Top Metric Values](./practice/sql/top-metric-values) | SQL | Easy | 2026-10-17 |
 | [Build Success vs Failure by Repo](./practice/sql/build-success-vs-failure-by-repo) | SQL | Medium | 2026-10-13 |
+| [CPU Utilization Summary](./practice/spark/cpu-utilization-summary) | Spark | Easy | 2026-10-11 |
 | [CPU Utilization Summary](./practice/sql/cpu-utilization-summary) | SQL | Easy | 2026-10-11 |
 | [The Address Surgeon](./practice/python/the-address-surgeon) | Python | Easy | 2026-10-11 |
 | [Daily and Weekly Active Users](./practice/spark/daily-and-weekly-active-users) | Spark | Easy | 2026-10-10 |
