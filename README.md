@@ -8,6 +8,7 @@ Scored work from [DataDriven](https://datadriven.io/u/primal_dolphin_5126), comm
 
 | Problem | Domain | Difficulty | Solved |
 |---|---|---|---|
+| [Top Performing Models](./practice/spark/top-performing-models) | Spark | Easy | 2026-10-26 |
 | [Top Performing Models](./practice/sql/top-performing-models) | SQL | Easy | 2026-10-26 |
 | [Users With Admin Tokens](./practice/sql/users-with-admin-tokens) | SQL | Medium | 2026-10-25 |
 | [Views by Content Type](./practice/spark/views-by-content-type) | Spark | Medium | 2026-10-24 |
