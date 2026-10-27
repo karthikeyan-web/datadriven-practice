@@ -20,6 +20,7 @@ Scored work from [DataDriven](https://datadriven.io/u/primal_dolphin_5126), comm
 | [CPU Utilization Summary](./practice/sql/cpu-utilization-summary) | SQL | Easy | 2026-10-11 |
 | [The Address Surgeon](./practice/python/the-address-surgeon) | Python | Easy | 2026-10-11 |
 | [Daily and Weekly Active Users](./practice/sql/daily-and-weekly-active-users) | SQL | Easy | 2026-10-10 |
+| [Clean Cache CDN Edges](./practice/spark/clean-cache-cdn-edges) | Spark | Easy | 2026-10-10 |
 | [Clean Cache CDN Edges](./practice/sql/clean-cache-cdn-edges) | SQL | Easy | 2026-10-10 |
 | [Cheapest Cost Per Region](./practice/spark/cheapest-cost-per-region) | Spark | Easy | 2026-10-10 |
 | [Cheapest Cost Per Region](./practice/sql/cheapest-cost-per-region) | SQL | Easy | 2026-10-10 |
