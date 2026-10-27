@@ -15,6 +15,7 @@ Scored work from [DataDriven](https://datadriven.io/u/primal_dolphin_5126), comm
 | [Actually Available](./practice/sql/actually-available) | SQL | Easy | 2026-10-22 |
 | [Content Types by Creator](./practice/sql/content-types-by-creator) | SQL | Easy | 2026-10-22 |
 | [Regional Profits](./practice/sql/regional-profits) | SQL | Easy | 2026-10-18 |
+| [Top Metric Values](./practice/spark/top-metric-values) | Spark | Easy | 2026-10-17 |
 | [Top Metric Values](./practice/sql/top-metric-values) | SQL | Easy | 2026-10-17 |
 | [Build Success vs Failure by Repo](./practice/sql/build-success-vs-failure-by-repo) | SQL | Medium | 2026-10-13 |
 | [CPU Utilization Summary](./practice/spark/cpu-utilization-summary) | Spark | Easy | 2026-10-11 |
