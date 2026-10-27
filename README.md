@@ -14,6 +14,7 @@ Scored work from [DataDriven](https://datadriven.io/u/primal_dolphin_5126), comm
 | [Alert Count by Severity Tier](./practice/sql/alert-count-by-severity-tier) | SQL | Easy | 2026-10-22 |
 | [Actually Available](./practice/sql/actually-available) | SQL | Easy | 2026-10-22 |
 | [Content Types by Creator](./practice/sql/content-types-by-creator) | SQL | Easy | 2026-10-22 |
+| [Distinct Product Categories](./practice/spark/distinct-product-categories) | Spark | Easy | 2026-10-21 |
 | [Regional Profits](./practice/sql/regional-profits) | SQL | Easy | 2026-10-18 |
 | [Top Metric Values](./practice/spark/top-metric-values) | Spark | Easy | 2026-10-17 |
 | [Top Metric Values](./practice/sql/top-metric-values) | SQL | Easy | 2026-10-17 |
