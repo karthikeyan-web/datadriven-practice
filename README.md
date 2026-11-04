@@ -8,6 +8,7 @@ Scored work from [DataDriven](https://datadriven.io/u/primal_dolphin_5126), comm
 
 | Problem | Domain | Difficulty | Solved |
 |---|---|---|---|
+| [The Tag Order](./practice/sql/the-tag-order) | SQL | Hard | 2026-11-04 |
 | [Memory-Heavy Pods](./practice/spark/memory-heavy-pods) | Spark | Easy | 2026-11-03 |
 | [Memory-Heavy Pods](./practice/sql/memory-heavy-pods) | SQL | Easy | 2026-11-03 |
 | [Top Performing Models](./practice/spark/top-performing-models) | Spark | Easy | 2026-10-26 |
