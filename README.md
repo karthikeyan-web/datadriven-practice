@@ -8,6 +8,7 @@ Scored work from [DataDriven](https://datadriven.io/u/primal_dolphin_5126), comm
 
 | Problem | Domain | Difficulty | Solved |
 |---|---|---|---|
+| [Three Clouds](./practice/sql/three-clouds) | SQL | Easy | 2026-11-05 |
 | [Content Type Distribution](./practice/spark/content-type-distribution) | Spark | Easy | 2026-11-04 |
 | [The Tag Order](./practice/spark/the-tag-order) | Spark | Hard | 2026-11-04 |
 | [The Tag Order](./practice/sql/the-tag-order) | SQL | Hard | 2026-11-04 |
