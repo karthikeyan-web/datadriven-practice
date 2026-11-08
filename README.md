@@ -8,6 +8,7 @@ Scored work from [DataDriven](https://datadriven.io/u/primal_dolphin_5126), comm
 
 | Problem | Domain | Difficulty | Solved |
 |---|---|---|---|
+| [Open Wounds](./practice/sql/open-wounds) | SQL | Hard | 2026-11-08 |
 | [Verify Commit ID Uniqueness](./practice/spark/verify-commit-id-uniqueness) | Spark | Easy | 2026-11-06 |
 | [Verify Commit ID Uniqueness](./practice/sql/verify-commit-id-uniqueness) | SQL | Easy | 2026-11-06 |
 | [Three Clouds](./practice/sql/three-clouds) | SQL | Easy | 2026-11-05 |
