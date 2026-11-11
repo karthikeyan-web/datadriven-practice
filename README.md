@@ -8,6 +8,7 @@ Scored work from [DataDriven](https://datadriven.io/u/primal_dolphin_5126), comm
 
 | Problem | Domain | Difficulty | Solved |
 |---|---|---|---|
+| [High-Value Electronics](./practice/sql/high-value-electronics) | SQL | Easy | 2026-11-11 |
 | [Status Report](./practice/sql/status-report) | SQL | Easy | 2026-11-10 |
 | [Engagement by Content Type](./practice/sql/engagement-by-content-type) | SQL | Medium | 2026-11-08 |
 | [Open Wounds](./practice/sql/open-wounds) | SQL | Hard | 2026-11-08 |
