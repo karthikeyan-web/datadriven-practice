@@ -8,6 +8,7 @@ Scored work from [DataDriven](https://datadriven.io/u/primal_dolphin_5126), comm
 
 | Problem | Domain | Difficulty | Solved |
 |---|---|---|---|
+| [Deep Pockets](./practice/spark/deep-pockets) | Spark | Medium | 2026-11-12 |
 | [Deep Pockets](./practice/sql/deep-pockets) | SQL | Medium | 2026-11-12 |
 | [High-Value Electronics](./practice/spark/high-value-electronics) | Spark | Easy | 2026-11-11 |
 | [High-Value Electronics](./practice/sql/high-value-electronics) | SQL | Easy | 2026-11-11 |
