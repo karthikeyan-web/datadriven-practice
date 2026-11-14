@@ -8,6 +8,7 @@ Scored work from [DataDriven](https://datadriven.io/u/primal_dolphin_5126), comm
 
 | Problem | Domain | Difficulty | Solved |
 |---|---|---|---|
+| [Follow the Money](./practice/spark/follow-the-money) | Spark | Easy | 2026-11-14 |
 | [Follow the Money](./practice/sql/follow-the-money) | SQL | Easy | 2026-11-14 |
 | [Deep Pockets](./practice/spark/deep-pockets) | Spark | Medium | 2026-11-12 |
 | [Deep Pockets](./practice/sql/deep-pockets) | SQL | Medium | 2026-11-12 |
