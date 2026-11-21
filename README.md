@@ -8,6 +8,7 @@ Scored work from [DataDriven](https://datadriven.io/u/primal_dolphin_5126), comm
 
 | Problem | Domain | Difficulty | Solved |
 |---|---|---|---|
+| [Tokens With Non-Read Scope Prefix](./practice/spark/tokens-with-non-read-scope-prefix) | Spark | Medium | 2026-11-21 |
 | [Tokens With Non-Read Scope Prefix](./practice/sql/tokens-with-non-read-scope-prefix) | SQL | Medium | 2026-11-21 |
 | [Follow the Money](./practice/spark/follow-the-money) | Spark | Easy | 2026-11-14 |
 | [Follow the Money](./practice/sql/follow-the-money) | SQL | Easy | 2026-11-14 |
